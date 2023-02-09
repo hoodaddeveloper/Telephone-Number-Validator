@@ -16,6 +16,7 @@
  * @param str
  * @returns {boolean}
  */
+
 function telephoneCheck(str) {
     // test cases:
     // 11 digits or 10 digits
